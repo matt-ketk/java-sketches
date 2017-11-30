@@ -1,1 +1,2 @@
 11/29/17 - Initialized
+	 - .gitignore
