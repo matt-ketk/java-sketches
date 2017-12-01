@@ -3,5 +3,6 @@
 	 - src folder; Token.java
 	 - added something to Token.java
 	 - added RandomMonkeyTheory.java
-	 - added fourPointOne
-	 - added threePointEight
+	 
+11/30/17 - added fourPointOne
+12/1/17	 - added threePointEight
